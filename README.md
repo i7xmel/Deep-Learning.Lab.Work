@@ -10,6 +10,7 @@ This repository contains 9 practical programs implementing fundamental deep lear
 - Applied data preprocessing with ColumnTransformer (StandardScaler, OneHotEncoder)
 - Achieved optimized model with binary classification for fraud prediction
 - Evaluated performance using accuracy, precision, recall, F1-score, ROC-AUC, and confusion matrix
+  
 
 **Screenshot**
 
